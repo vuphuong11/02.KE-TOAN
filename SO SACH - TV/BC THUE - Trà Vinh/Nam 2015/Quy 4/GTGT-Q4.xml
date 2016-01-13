@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.4</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>4/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/10/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>81700</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Trà Vinh</tenCQTNoiNop>
+					<ngayLapTKhai>2016-01-12</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2016-01-11</ngayKy>
+					<nganhNgheKD>Mua bán gia công, chế biến hàng thủy hải sản và thực phẩm ăn liền</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>2100346855</mst>
+					<tenNNT>Công Ty TNHH Hải Sản An Lạc - Trà Vinh</tenNNT>
+					<dchiNNT>Số 20, Lô E, KCN Long Đức, ấp Vĩnh Yên, xã Long Đức</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>TX  Trà Vinh</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Trà Vinh</tenTinhNNT>
+					<dthoaiNNT>072 3850 606</dthoaiNNT>
+					<faxNNT>072 3850 608</faxNNT>
+					<emailNNT>longan@anlacseafoods.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>0</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>4540413187</ct23>
+				<ct24>452614594</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>452614594</ct25>
+			<ct26>0</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>0</ct27>
+				<ct28>0</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>0</ct32>
+				<ct33>0</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>0</ct34>
+				<ct35>0</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-452614594</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>452614594</ct41>
+			<ct42>0</ct42>
+			<ct43>452614594</ct43>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>

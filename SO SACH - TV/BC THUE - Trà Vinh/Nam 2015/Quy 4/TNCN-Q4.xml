@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue>
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.4</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>47</maTKhai>
+					<tenTKhai>TỜ KHAI KHẤU TRỪ THUẾ THU NHẬP CÁ NHÂN - MẪU 02/KK-TNCN</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 156/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.0</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>4/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/10/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>81700</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Trà Vinh</tenCQTNoiNop>
+					<ngayLapTKhai>2016-01-11</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2016-01-11</ngayKy>
+					<nganhNgheKD>Mua bán gia công, chế biến hàng thủy hải sản và thực phẩm ăn liền</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>2100346855</mst>
+					<tenNNT>Công Ty TNHH Hải Sản An Lạc - Trà Vinh</tenNNT>
+					<dchiNNT>Số 20, Lô E, KCN Long Đức, ấp Vĩnh Yên, xã Long Đức</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>TX  Trà Vinh</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Trà Vinh</tenTinhNNT>
+					<dthoaiNNT>072 3850 606</dthoaiNNT>
+					<faxNNT>072 3850 608</faxNNT>
+					<emailNNT>longan@anlacseafoods.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<TongSoNguoiLaoDong>
+				<ct21>0</ct21>
+				<ct22>0</ct22>
+			</TongSoNguoiLaoDong>
+			<TongSoCaNhanDaKhauTru>
+				<ct23>0</ct23>
+				<ct24>0</ct24>
+				<ct25>0</ct25>
+			</TongSoCaNhanDaKhauTru>
+			<TongTNCTTraChoCaNhan>
+				<ct26>0</ct26>
+				<ct27>0</ct27>
+				<ct28>0</ct28>
+				<ct29>0</ct29>
+			</TongTNCTTraChoCaNhan>
+			<TongTNCTTraCNhanThuocDienKTru>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+				<ct32>0</ct32>
+				<ct33>0</ct33>
+			</TongTNCTTraCNhanThuocDienKTru>
+			<TongThueTNCNDaKhauTru>
+				<ct34>0</ct34>
+				<ct35>0</ct35>
+				<ct36>0</ct36>
+				<ct37>0</ct37>
+			</TongThueTNCNDaKhauTru>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>
