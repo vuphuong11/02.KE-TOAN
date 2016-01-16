@@ -26,7 +26,7 @@
 					</KyKKhaiThue>
 					<maCQTNoiNop>80100</maCQTNoiNop>
 					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
-					<ngayLapTKhai>2016-01-13</ngayLapTKhai>
+					<ngayLapTKhai>2016-01-16</ngayLapTKhai>
 					<GiaHan>
 						<maLyDoGiaHan></maLyDoGiaHan>
 						<lyDoGiaHan></lyDoGiaHan>
@@ -55,10 +55,10 @@
 			<ct21>0</ct21>
 			<ct22>113163495</ct22>
 			<GiaTriVaThueGTGTHHDVMuaVao>
-				<ct23>494721705</ct23>
-				<ct24>47824469</ct24>
+				<ct23>515432551</ct23>
+				<ct24>49257441</ct24>
 			</GiaTriVaThueGTGTHHDVMuaVao>
-			<ct25>47824469</ct25>
+			<ct25>49257441</ct25>
 			<ct26>0</ct26>
 			<HHDVBRaChiuThueGTGT>
 				<ct27>6786551370</ct27>
@@ -77,16 +77,16 @@
 				<ct34>6786551370</ct34>
 				<ct35>0</ct35>
 			</TongDThuVaThueGTGTHHDVBRa>
-			<ct36>-47824469</ct36>
+			<ct36>-49257441</ct36>
 			<ct37>0</ct37>
 			<ct38>0</ct38>
 			<ct39>0</ct39>
 			<ct40a>0</ct40a>
 			<ct40b>0</ct40b>
 			<ct40>0</ct40>
-			<ct41>160987964</ct41>
+			<ct41>162420936</ct41>
 			<ct42>0</ct42>
-			<ct43>160987964</ct43>
+			<ct43>162420936</ct43>
 		</CTieuTKhaiChinh>
 	</HSoKhaiThue>
 </HSoThueDTu>
