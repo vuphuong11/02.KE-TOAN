@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue>
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.6</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>102</maTKhai>
+					<tenTKhai>Báo cáo tình hình sử dụng hóa đơn (BC26/AC)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.8</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>1/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>80100</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
+					<ngayLapTKhai>2016-04-14</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2016-04-14</ngayKy>
+					<nganhNgheKD>Mua bán, gia công, chế biến:hàng thuỷ hải sản, lương thực, thực phẩm ăn liến.Mua bán hoá chất......</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>1100878093</mst>
+					<tenNNT>Công Ty TNHH Hải Sản An Lạc</tenNNT>
+					<dchiNNT>Lô A14, Đường 4A, KCN Hải Sơn, Đức Hoà, Long An</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Đức Hoà</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Long An</tenTinhNNT>
+					<dthoaiNNT>0723850606</dthoaiNNT>
+					<faxNNT>0723850608</faxNNT>
+					<emailNNT>longan@anlacseafoods.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<kyBCaoCuoi>0</kyBCaoCuoi>
+			<chuyenDiaDiem>0</chuyenDiaDiem>
+			<ngayDauKyBC>2016-01-01</ngayDauKyBC>
+			<ngayCuoiKyBC>2016-03-31</ngayCuoiKyBC>
+			<HoaDon>
+				<ChiTiet id="ID_1">
+					<maHoaDon>01GTKT</maHoaDon>
+					<tenHDon>Hóa đơn giá trị gia tăng</tenHDon>
+					<kHieuMauHDon>01GTKT3/001</kHieuMauHDon>
+					<kHieuHDon>AL/11P</kHieuHDon>
+					<soTonMuaTrKy_tongSo>404</soTonMuaTrKy_tongSo>
+					<soTonDauKy_tuSo>0000097</soTonDauKy_tuSo>
+					<soTonDauKy_denSo>0000500</soTonDauKy_denSo>
+					<muaTrongKy_tuSo></muaTrongKy_tuSo>
+					<muaTrongKy_denSo></muaTrongKy_denSo>
+					<tongSoSuDung_tuSo>0000097</tongSoSuDung_tuSo>
+					<tongSoSuDung_denSo>0000100</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>4</tongSoSuDung_cong>
+					<soDaSDung>4</soDaSDung>
+					<xoaBo_soLuong>0</xoaBo_soLuong>
+					<xoaBo_so></xoaBo_so>
+					<mat_soLuong>0</mat_soLuong>
+					<mat_so></mat_so>
+					<huy_soLuong>0</huy_soLuong>
+					<huy_so></huy_so>
+					<tonCuoiKy_tuSo>0000101</tonCuoiKy_tuSo>
+					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
+					<tonCuoiKy_soLuong>400</tonCuoiKy_soLuong>
+				</ChiTiet><ChiTiet id="ID_2">
+					<maHoaDon>03XKNB</maHoaDon>
+					<tenHDon>Phiếu xuất kho kiêm vận chuyển hàng hóa nội bộ</tenHDon>
+					<kHieuMauHDon>03XKNB3/001</kHieuMauHDon>
+					<kHieuHDon>AL/11P</kHieuHDon>
+					<soTonMuaTrKy_tongSo>193</soTonMuaTrKy_tongSo>
+					<soTonDauKy_tuSo>0000308</soTonDauKy_tuSo>
+					<soTonDauKy_denSo>0000500</soTonDauKy_denSo>
+					<muaTrongKy_tuSo></muaTrongKy_tuSo>
+					<muaTrongKy_denSo></muaTrongKy_denSo>
+					<tongSoSuDung_tuSo>0000308</tongSoSuDung_tuSo>
+					<tongSoSuDung_denSo>0000311</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>4</tongSoSuDung_cong>
+					<soDaSDung>4</soDaSDung>
+					<xoaBo_soLuong>0</xoaBo_soLuong>
+					<xoaBo_so></xoaBo_so>
+					<mat_soLuong>0</mat_soLuong>
+					<mat_so></mat_so>
+					<huy_soLuong>0</huy_soLuong>
+					<huy_so></huy_so>
+					<tonCuoiKy_tuSo>0000312</tonCuoiKy_tuSo>
+					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
+					<tonCuoiKy_soLuong>189</tonCuoiKy_soLuong>
+				</ChiTiet></HoaDon>
+			<tongCongSoTonDKy>597</tongCongSoTonDKy>
+			<tongCongSDung>8</tongCongSDung>
+			<tongCongSoTonCKy>589</tongCongSoTonCKy>
+			<nguoiLapBieu></nguoiLapBieu>
+			<nguoiDaiDien>Nguyễn Thiện Duy</nguoiDaiDien>
+			<ngayBCao>2016-04-14</ngayBCao>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>
